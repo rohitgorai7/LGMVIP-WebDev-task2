@@ -1,0 +1,18 @@
+.nav{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    top: 0;
+    margin-bottom: 30px;
+    background-color: #000000;
+    color: antiquewhite;
+    height: 60px;
+    display: flex;
+    justify-content:center;
+    height: 90px;
+}
+.navtitle{
+    width: 320px;
+    height: 80px;
+    cursor: pointer;
+}
